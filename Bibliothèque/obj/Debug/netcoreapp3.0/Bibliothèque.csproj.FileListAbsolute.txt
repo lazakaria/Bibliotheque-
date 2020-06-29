@@ -1,0 +1,13 @@
+C:\Users\sarah\source\repos\Bibliothèque\Bibliothèque\bin\Debug\netcoreapp3.0\Bibliothèque.exe
+C:\Users\sarah\source\repos\Bibliothèque\Bibliothèque\bin\Debug\netcoreapp3.0\Bibliothèque.deps.json
+C:\Users\sarah\source\repos\Bibliothèque\Bibliothèque\bin\Debug\netcoreapp3.0\Bibliothèque.runtimeconfig.json
+C:\Users\sarah\source\repos\Bibliothèque\Bibliothèque\bin\Debug\netcoreapp3.0\Bibliothèque.runtimeconfig.dev.json
+C:\Users\sarah\source\repos\Bibliothèque\Bibliothèque\bin\Debug\netcoreapp3.0\Bibliothèque.dll
+C:\Users\sarah\source\repos\Bibliothèque\Bibliothèque\bin\Debug\netcoreapp3.0\Bibliothèque.pdb
+C:\Users\sarah\source\repos\Bibliothèque\Bibliothèque\obj\Debug\netcoreapp3.0\Bibliothèque.csprojAssemblyReference.cache
+C:\Users\sarah\source\repos\Bibliothèque\Bibliothèque\obj\Debug\netcoreapp3.0\Bibliothèque.AssemblyInfoInputs.cache
+C:\Users\sarah\source\repos\Bibliothèque\Bibliothèque\obj\Debug\netcoreapp3.0\Bibliothèque.AssemblyInfo.cs
+C:\Users\sarah\source\repos\Bibliothèque\Bibliothèque\obj\Debug\netcoreapp3.0\Bibliothèque.dll
+C:\Users\sarah\source\repos\Bibliothèque\Bibliothèque\obj\Debug\netcoreapp3.0\Bibliothèque.pdb
+C:\Users\Zak\Desktop\Projets\Nouveau dossier (3)\c#\Bibliothèque\Bibliothèque\obj\Debug\netcoreapp3.0\Bibliothèque.dll
+C:\Users\Zak\Desktop\Projets\Nouveau dossier (3)\c#\Bibliothèque\Bibliothèque\obj\Debug\netcoreapp3.0\Bibliothèque.pdb
